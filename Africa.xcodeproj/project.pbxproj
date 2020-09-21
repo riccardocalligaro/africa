@@ -28,7 +28,7 @@
 		8BB4CA4C2517B8130099ABC1 /* lion.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BB4CA422517B8100099ABC1 /* lion.mp4 */; };
 		8BB4CA4D2517B8130099ABC1 /* giraffe.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BB4CA432517B8110099ABC1 /* giraffe.mp4 */; };
 		8BB4CA4E2517B8130099ABC1 /* gorilla.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BB4CA442517B8110099ABC1 /* gorilla.mp4 */; };
-		8BB4CA4F2517B8130099ABC1 /* elephant.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BB4CA452517B8120099ABC1 /* elephant.mp4 */; };
+		8BB4CA4F2517B8130099ABC1 /* elephant2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BB4CA452517B8120099ABC1 /* elephant2.mp4 */; };
 		8BB4CA502517B8130099ABC1 /* rhino.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BB4CA462517B8120099ABC1 /* rhino.mp4 */; };
 		8BB4CA512517B8130099ABC1 /* hippo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BB4CA472517B8130099ABC1 /* hippo.mp4 */; };
 		8BB4CA522517B8130099ABC1 /* lioness.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8BB4CA482517B8130099ABC1 /* lioness.mp4 */; };
@@ -71,7 +71,7 @@
 		8BB4CA422517B8100099ABC1 /* lion.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = lion.mp4; sourceTree = "<group>"; };
 		8BB4CA432517B8110099ABC1 /* giraffe.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = giraffe.mp4; sourceTree = "<group>"; };
 		8BB4CA442517B8110099ABC1 /* gorilla.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = gorilla.mp4; sourceTree = "<group>"; };
-		8BB4CA452517B8120099ABC1 /* elephant.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = elephant.mp4; sourceTree = "<group>"; };
+		8BB4CA452517B8120099ABC1 /* elephant2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = elephant2.mp4; sourceTree = "<group>"; };
 		8BB4CA462517B8120099ABC1 /* rhino.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = rhino.mp4; sourceTree = "<group>"; };
 		8BB4CA472517B8130099ABC1 /* hippo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = hippo.mp4; sourceTree = "<group>"; };
 		8BB4CA482517B8130099ABC1 /* lioness.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = lioness.mp4; sourceTree = "<group>"; };
@@ -161,7 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				8BB4CA412517B8100099ABC1 /* cheetah.mp4 */,
-				8BB4CA452517B8120099ABC1 /* elephant.mp4 */,
+				8BB4CA452517B8120099ABC1 /* elephant2.mp4 */,
 				8BB4CA432517B8110099ABC1 /* giraffe.mp4 */,
 				8BB4CA442517B8110099ABC1 /* gorilla.mp4 */,
 				8BB4CA472517B8130099ABC1 /* hippo.mp4 */,
@@ -335,7 +335,7 @@
 				8BB4CA592517B8270099ABC1 /* covers.json in Resources */,
 				8BB4CA582517B8270099ABC1 /* animals.json in Resources */,
 				8BB4CA4E2517B8130099ABC1 /* gorilla.mp4 in Resources */,
-				8BB4CA4F2517B8130099ABC1 /* elephant.mp4 in Resources */,
+				8BB4CA4F2517B8130099ABC1 /* elephant2.mp4 in Resources */,
 				8BB4CA4A2517B8130099ABC1 /* zebra.mp4 in Resources */,
 				8BB4CA5B2517B8270099ABC1 /* videos.json in Resources */,
 				8BB4CA4C2517B8130099ABC1 /* lion.mp4 in Resources */,
